@@ -13,5 +13,5 @@ Figures from the manuscript were generated using:
 - Fig_7_subgroup_sampling_GM.r
 
 For model selection, the marginal deviance information criterion (mDIC) has been calculated with:
-- Sup_Mat_mDIC_PGA
-- Sup_Mat_mDIC_PLN_LeCo
+- Sup_Mat_mDIC_PGA.r
+- Sup_Mat_mDIC_PLN_LeCo.r
