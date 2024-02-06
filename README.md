@@ -3,7 +3,6 @@ By Émile Sylvestre
 Last update: December, 2023
 
 Figures from the manuscript were generated using:
-- Fig_1_PRISMA_Flow_Diagram.pptx
 - Fig_2_Parametric_models.r
 - Fig_3_Forest_plot.r
 - Fig_4_CDF_combined.r
