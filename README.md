@@ -2,13 +2,6 @@
 By Émile Sylvestre
 Last update: December, 2023
 
-The manuscript has been submitted to AEM.
-
-All data were compiled in:
-- Database_Meta_Analysis.xlsx
-
-All CSV files created to run statistical analyses are in the folder CSV.
-
 Figures from the manuscript were generated using:
 - Fig_1_PRISMA_Flow_Diagram.pptx
 - Fig_2_Parametric_models.r
