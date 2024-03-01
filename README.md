@@ -16,4 +16,4 @@ For model selection, the marginal deviance information criterion (mDIC) has been
 - Sup_Mat_mDIC_PGA.r
 - Sup_Mat_mDIC_PLN_LeCo.r
 
-The database is included in the file: Database-qPCR_cultivation_xlsx
+The database is included in the file: Database-qPCR_cultivation.xlsx
