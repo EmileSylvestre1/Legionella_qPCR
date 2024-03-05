@@ -1,6 +1,6 @@
 # Legionella_qPCR
 By Émile Sylvestre
-Last update: December, 2023
+Last update: March, 2024
 
 Figures from the manuscript were generated using:
 - Fig_2_Parametric_models.r
@@ -17,3 +17,4 @@ For model selection, the marginal deviance information criterion (mDIC) has been
 - Sup_Mat_mDIC_PLN_LeCo.r
 
 The database is included in the file: Database-qPCR_cultivation.xlsx
+CSV files for statistical analyses are included in: CSV.zip
